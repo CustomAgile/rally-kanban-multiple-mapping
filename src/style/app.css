@@ -1,0 +1,60 @@
+.app {
+}
+.tsinfolink {
+    position:absolute;
+    right:0px;
+    width: 14px;
+    height: 14px;
+    border-radius: 7px;
+    text-align: center;
+    color: white;
+    background: #C0C0C0;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.x-window-rally {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  border-radius: 10px;
+}
+
+.ext-ie .kanban .rly-right .filterInfo {
+    width: 25px;
+}
+
+.ext-ie .kanban .rly-right .artifact-type-chooser {
+    width: 265px;
+}
+
+.cardboard .status-content > .status-field.RevisionHistory {
+    line-height: 18px;
+    cursor: default;
+}
+
+.column-settings .settings-grid {
+    border: 1px solid #FFF;
+}
+
+.column-settings .settings-grid.rally-invalid-field {
+    border: 1px solid #F00;
+}
+
+.row-settings .@{prefix}form-item-input-row .@{prefix}field-label-cell {
+    vertical-align: top;
+}
+
+.rui-picker-right-action {
+  display: inline;
+  float: right;
+  padding-right: 4px;
+}
+
+.kanban {
+  overflow-y: hidden;
+}
